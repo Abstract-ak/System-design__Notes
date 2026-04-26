@@ -25,7 +25,7 @@ Before doing anything, the browser checks:
 
 ### 📷 Visual Reference
 
-![DNS Resolution](https://source.unsplash.com/800x450/?dns,network)
+![DNS Resolution](https://commons.wikimedia.org/wiki/Special:FilePath/Domain_Name_Space.png)
 
 ### 🔍 Process
 
@@ -51,7 +51,7 @@ google.com → 142.250.xxx.xxx
 
 ### 📷 Visual Reference
 
-![TCP TLS Handshake](https://source.unsplash.com/800x450/?https,security)
+![TCP TLS Handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Tcp_state_diagram_fixed.svg)
 
 ### 🔗 TCP Handshake (3-way)
 
@@ -82,7 +82,7 @@ Host: google.com
 
 ### 📷 Visual Reference
 
-![Server Architecture](https://source.unsplash.com/800x450/?server,architecture)
+![Server Architecture](https://commons.wikimedia.org/wiki/Special:FilePath/Client-server-model.svg)
 
 ### 🏗️ Flow
 
