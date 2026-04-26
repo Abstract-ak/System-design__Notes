@@ -25,7 +25,7 @@ Before doing anything, the browser checks:
 
 ### 📷 Visual Reference
 
-![DNS Resolution](https://commons.wikimedia.org/wiki/Special:FilePath/Domain_Name_Space.png)
+![DNS Resolution](https://images.openai.com/static-rsc-4/cLwgBuuMJyzTP-KgKTBDWDj1AzzSN4JSE-WS-YWN7AUEJXx3OdrvMHbUx55-TJ_T4MZiXOMF_binMDr1d9lrq5FdKyD8WG1yBe_bb8d3I8GfyYJfCzNa2ogR7Nwo00hJGYlj0p0PYv6iIs-9yP4hq60aP5dE5hl0Xr41EG1g5A4gl_IqV7PGL7LYdM4W0rBg?purpose=fullsize)
 
 ### 🔍 Process
 
@@ -51,7 +51,7 @@ google.com → 142.250.xxx.xxx
 
 ### 📷 Visual Reference
 
-![TCP TLS Handshake](https://commons.wikimedia.org/wiki/Special:FilePath/Tcp_state_diagram_fixed.svg)
+![TCP TLS Handshake](https://images.openai.com/static-rsc-4/o2yHm75KVnE-wovvkRu18h6_hLzbSCT72V_K_iZ3ZQ_c_CwJf-nBzruRnX2HrZv_-ZZ3mtkUD7ZtXg4W1iCuvv2JE611rtry9BGUy5xLJZM27hmnwouwozq29AjM3iQ4EOvsFnC4ZgCiGIVbhoSCjNEOLsimzkNCcXmkd79Np3RaJTAnmuH1i26ioeI8zOUM?purpose=fullsize)
 
 ### 🔗 TCP Handshake (3-way)
 
